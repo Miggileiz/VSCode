@@ -1,0 +1,43 @@
+body {
+    background: grey;
+}
+
+h1 {
+    font-size: 30pt;
+    font-family:Arial;
+    color: red;
+
+    text-decoration: underline;
+
+    text-align: center;
+}
+
+h2 {
+    font-size: 20pt;
+    font-family:Arial;
+    color: blue;
+
+    text-decoration: underline;
+
+    text-align: center;
+}
+
+h3 {
+    font-size: 10pt;
+    font-family:Arial;
+    color: yellow;
+
+    text-decoration: underline;
+
+    text-align: center;
+}
+
+p {
+    font-size: 13pt;
+    font-family:Arial;
+    color: pink;
+
+    text-decoration: none;
+
+    text-align: center;
+}

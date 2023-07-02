@@ -1,0 +1,32 @@
+html {
+
+    text-align: center;
+}
+
+button {
+    margin-top: 100px;
+    padding: 10px 30px;
+
+    color: white;
+    background-color: #db5757;
+    box-shadow: 0px 17px 10px -7px 
+    rgba(0, 0, 0, 0.4);
+
+    border: solid 3px #db5757;
+    border-radius: 5px ;
+
+    font-size: 30px;
+    font-family: cursive;
+
+    transition: ease-in-out all 300ms;
+}
+
+button:hover {
+
+    color: #db5757;
+    background-color: white;
+
+    transform: translate(0px, -10px);
+
+    box-shadow: 0px 30px 10px -10px rgba(0, 0, 0, 0.2) ;
+}
