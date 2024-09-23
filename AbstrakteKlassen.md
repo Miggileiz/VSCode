@@ -3,6 +3,8 @@
 deklariert.
 - von abstrakten Klassen können **keine Objekte** erzeugt werden.
 - sie dienen als Verwaltungsklassen in einer Vererbungshierarchie.
+- erbende Klassen müssen abstrakte Methoden der Oberklasse implementieren (hier: anmelden)
+- Falls kein Standartkonstruktor vorhanden ist, müssen erbende Klassen die Konstruktoren überschreiben. Dabei müssen mindestens die Attribute des Konstruktors der Oberklasse vorhanden sein.
 
 ## Beispiel:
 
